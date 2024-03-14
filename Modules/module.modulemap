@@ -1,0 +1,6 @@
+framework module ComaiotSDK {
+  umbrella header "ComaiotSDK.h"
+
+  export *
+  module * { export * }
+}
